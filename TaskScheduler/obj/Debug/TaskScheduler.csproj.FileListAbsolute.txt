@@ -1,0 +1,11 @@
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.AssemblyReference.cache
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.SuggestedBindingRedirects.cache
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.CoreCompileInputs.cache
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.exe
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.pdb
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskModels.dll
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\bin\Debug\TaskModels.pdb
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskScheduler\obj\Debug\TaskScheduler.csproj.CopyComplete

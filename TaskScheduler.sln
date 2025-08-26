@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduler", "TaskScheduler\TaskScheduler.csproj", "{F1797A25-0F39-496A-8DF6-6830F56D7F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskModels", "TaskModels\TaskModels.csproj", "{7E0D544B-1947-40F7-A46B-ED89B761C2C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1797A25-0F39-496A-8DF6-6830F56D7F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1797A25-0F39-496A-8DF6-6830F56D7F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1797A25-0F39-496A-8DF6-6830F56D7F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1797A25-0F39-496A-8DF6-6830F56D7F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0D544B-1947-40F7-A46B-ED89B761C2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0D544B-1947-40F7-A46B-ED89B761C2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0D544B-1947-40F7-A46B-ED89B761C2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0D544B-1947-40F7-A46B-ED89B761C2C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D019CF-35FB-4025-BD14-FB5C1D25E623}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\obj\Debug\TaskModels.csproj.AssemblyReference.cache
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\obj\Debug\TaskModels.csproj.CoreCompileInputs.cache
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\bin\Debug\TaskModels.dll
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\bin\Debug\TaskModels.pdb
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\obj\Debug\TaskModels.dll
+E:\Adult stuff\VisualStudioProjects\TaskScheduler\TaskModels\obj\Debug\TaskModels.pdb
